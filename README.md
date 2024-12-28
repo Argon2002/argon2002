@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi. My name is Mohamad Hosein Mahrooghi, currenctly working as a Software engineer and also an AI enthusiastic. 
 
-<!--
-**Argon2002/argon2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently working as Software Engineer in Arz8 and Exonyx crypto currency exchanges.
+- Currenctly trying to implement an elementary AI agent.
+- Experiend in Flutter, Node js, Python and ...
+- 📫 How to reach me: [mhmahroghi@gmail.com](mailto:mhmahroghi@gmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?usernameargon2002&hide_rank=false&rank_icon=github" />
+
+
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=argon2002&layout=compact&langs_count=8&card_width=320" />
+
+
+
+
+  <
+
+
+  <img height=600 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@argon18&layout=compact" />
